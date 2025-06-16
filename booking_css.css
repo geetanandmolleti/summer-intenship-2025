@@ -1,0 +1,87 @@
+header{
+ text-align: center;
+ color: #b0a35a ;
+  background-position: center;
+  background-color:#040518;
+ height: auto;   
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  
+  position:relative;
+  top:0cm;
+  height: 20cm;
+  text-align: center;
+  background: linear-gradient(to right, #a8edea, #fed6e3);
+
+
+
+}
+.a123{
+  position: relative;
+  width: 80px;
+  right: 40%;
+  left: 15%;
+  text-align: left;
+  color:aquamarine
+
+}
+.b12{
+  margin-top: 10px;
+  color: pink;
+  background-color: whitesmoke;
+  width:9%;
+  height: 50%;
+  margin-left: 0%;
+}
+.bookingcircle{
+position: relative;
+text-align: center;
+color:purple;
+}
+button{
+  color:beige;
+  background-color: black;
+}
+
+input{
+  position:relative;
+  top:3cm;
+  font-size: 0.8cm;
+}
+.special{
+  position:relative;
+  top:5cm;
+  text-align: center;
+  font: 200;
+  font-size: 1.5cm;
+}
+footer{
+   width: auto;
+  height: 5cm;
+  position: center;
+  text-align: center;
+ color: #b0a35a ;
+  background-position: center;
+  background-color:#040518;
+
+}
+
+
+
+label {
+  
+  text-align: center;
+  position:relative;
+  top:3cm;
+  font-size: large;
+  display: inline-block;
+  width: 300px;
+  
+}
+
+
